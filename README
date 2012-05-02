@@ -1,3 +1,6 @@
+
+compiler-extra.jar cotains an extended colosure compiler command line runner which remove logger, logger_, goog.debug and goog.asserts. Only use it if you know what you are doing.
+
 /*
  * Copyright 2009 The Closure Compiler Authors.
  *
